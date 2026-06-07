@@ -3,7 +3,17 @@
   <img src="banner.png" alt="SnakeTank Banner" width="100%" />
 </p>
 
-<!-- TERMINAL INTRO BLOCK (Ultra-stable, Hacker-themed, No Broken Images!) -->
+<!-- DYNAMIC TYPING TEXT (Using Heroku instance to avoid rate limits & browser blocking) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Alias%3A+SnakeTank;Offensive+Security+Eng;Active+Recon+%26+RF+Jamming;Target+Locked...⚔️" alt="Typing SVG" />
+</p>
+
+<!-- MOVING HACKER ANIMATION -->
+<p align="center">
+  <img src="matrix.gif" alt="Digital Matrix Rain" width="60%" style="border-radius: 8px; border: 2px solid #00FF00;" />
+</p>
+
+<!-- TERMINAL INTRO BLOCK -->
 ```bash
 SnakeTank@UniKL-MIIT:~$ ./init_profile.sh
 
@@ -28,7 +38,7 @@ SnakeTank@UniKL-MIIT:~$ ./init_profile.sh
 I am a **Computer Science (Information Security)** student at **UniKL MIIT** with a strong passion for **Offensive Security (Red Teaming)**, hardware auditing, and weaponized script development. In the cyber realm, I operate under the alias **SnakeTank**.
 
 * 🛡️ **My Focus:** Wireless Auditing, RF Jamming, Active Reconnaissance, and Defense Evasion (Office Bypass).
-* 🔭 **Current Goal:** Researching advanced AV/EDR evasion and wireless network disruption.
+* 🔭 **Current Goal:** Researching advanced EDR evasion and wireless network disruption.
 * 💬 **Let's Talk About:** Radio Frequency operations, reverse engineering, and shellcode execution.
 
 ---
