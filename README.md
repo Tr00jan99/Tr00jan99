@@ -3,9 +3,14 @@
   <img src="banner.png" alt="SnakeTank Banner" width="100%" />
 </p>
 
-<!-- DYNAMIC TYPING TEXT (Using Heroku instance to avoid rate limits & browser blocking) -->
+<!-- DYNAMIC TYPING TEXT -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Alias%3A+SnakeTank;Offensive+Security+Eng;Active+Recon+%26+RF+Jamming;Target+Locked...⚔️" alt="Typing SVG" />
+</p>
+
+<!-- THREATS INTERCEPTED (VISITOR COUNTER) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tr00jan99&color=00ff00&style=flat-square&label=Threats%20Intercepted" alt="Threats Intercepted" />
 </p>
 
 <!-- MOVING HACKER ANIMATION -->
@@ -33,7 +38,7 @@ SnakeTank@UniKL-MIIT:~$ ./init_profile.sh
 
 ---
 
-### 👤 About Me
+### 👤 Cyber Security Profile & Biodata
 
 I am a **Computer Science (Information Security)** student at **UniKL MIIT** with a strong passion for **Offensive Security (Red Teaming)**, hardware auditing, and weaponized script development. In the cyber realm, I operate under the alias **SnakeTank**.
 
@@ -92,6 +97,20 @@ A hardware-software hybrid deployment designed for targeted wireless signal supp
 
 ---
 
+### 📶 Off-Grid Cyber Training (OSINT & CTF)
+
+<p align="left">
+  <!-- Replace the usernames below with your actual account handles to link your dynamic badges -->
+  <a href="https://tryhackme.com/p/Tr00jan99" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-SnakeTank-black?style=flat-square&logo=tryhackme" alt="TryHackMe" />
+  </a>
+  <a href="https://www.hackthebox.com/" target="_blank">
+    <img src="https://img.shields.io/badge/HackTheBox-SnakeTank-green?style=flat-square&logo=hackthebox" alt="HackTheBox" />
+  </a>
+</p>
+
+---
+
 ### 📊 Threat Intelligence & Metrics
 
 <table border="0">
@@ -113,6 +132,15 @@ A hardware-software hybrid deployment designed for targeted wireless signal supp
     </td>
   </tr>
 </table>
+
+---
+
+### 🐍 SnakeTank Contribution Game
+
+<!-- The snake animation will be compiled daily by GitHub Actions. It will render in dark mode matching the grid layout. -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tr00jan99/Tr00jan99/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
 
 <br />
 <p align="center">
