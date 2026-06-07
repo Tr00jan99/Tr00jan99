@@ -1,13 +1,11 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=0d1117&secondaryColor=ff003c&height=220&section=header&text=Tr00jan99&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlignY=50" width="100%" />
+  <img src="banner.png" alt="Cybersecurity Banner" width="100%" />
 </p>
 
 <!-- DYNAMIC TYPING TEXT -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=25&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=500&height=50&lines=Red+Teamer+%2F+Pentester;Cybersecurity+%40+UniKL+MIIT;Exploitation+%26+Active+Recon;God+Mode+Activated...🕹️" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=500&height=50&lines=Red+Teamer+|+Pentester;Cybersecurity+Student;Active+Recon+|+Exploits;God+Mode+Activated..." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -82,7 +80,7 @@ A complete penetration testing engagement and walkthrough where I achieved full 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tr00jan99&theme=radical&hide_border=true" alt="Tr00jan99 Streak" />
 </p>
 
+<br />
 <p align="center">
-  <img src="https://avatar.iran.liara.run/public/38" width="100px" alt="Avatar" /><br/>
   <sub><i>"Security is an illusion. Hack the planet."</i></sub>
 </p>
