@@ -3,12 +3,16 @@
   <img src="banner.png" alt="SnakeTank Banner" width="100%" />
 </p>
 
-<!-- DYNAMIC TYPING TEXT -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Alias%3A+SnakeTank;Offensive+Security+Eng;Active+Recon+%26+RF+Jamming;Target+Locked...⚔️" alt="Typing SVG" />
-  </a>
-</p>
+<!-- TERMINAL INTRO BLOCK (Ultra-stable, Hacker-themed, No Broken Images!) -->
+```bash
+SnakeTank@UniKL-MIIT:~$ ./init_profile.sh
+
+[+] Alias       : SnakeTank
+[+] Specialty   : Offensive Security & Wireless Auditing
+[+] Affiliation : Bachelor in System Security @ UniKL MIIT
+[+] Objective   : Red Teaming, RF Operations, Defense Evasion
+[+] Status      : Active Threat Hunter // God Mode Enabled
+```
 
 <p align="center">
   <img src="https://img.shields.io/badge/Alias-SnakeTank-00ff00?style=flat-square&logo=anaconda&logoColor=black" />
@@ -78,16 +82,27 @@ A hardware-software hybrid deployment designed for targeted wireless signal supp
 
 ---
 
-### 📊 GitHub Threat Intelligence
+### 📊 Threat Intelligence & Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tr00jan99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SnakeTank Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr00jan99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tr00jan99&theme=tokyonight&hide_border=true" alt="SnakeTank Streak" />
-</p>
+<table border="0">
+  <tr>
+    <td valign="top" width="50%">
+      <strong>📟 Language Stats (Audited)</strong><br/><br/>
+      <code>Python</code> <br/>
+      <code>████████████████░░░░ 80%</code><br/>
+      <code>Bash Scripting</code> <br/>
+      <code>██████████████░░░░░░ 70%</code><br/>
+      <code>VBA / Macros</code> <br/>
+      <code>████████████░░░░░░░░ 60%</code><br/>
+      <code>C / C++</code> <br/>
+      <code>██████████░░░░░░░░░░ 50%</code>
+    </td>
+    <td valign="top" width="50%">
+      <strong>📈 Contribution Streak</strong><br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tr00jan99&theme=tokyonight&hide_border=true" alt="SnakeTank Streak" />
+    </td>
+  </tr>
+</table>
 
 <br />
 <p align="center">
