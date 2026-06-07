@@ -1,16 +1,19 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="banner.png" alt="Cybersecurity Banner" width="100%" />
+  <img src="banner.png" alt="SnakeTank Banner" width="100%" />
 </p>
 
 <!-- DYNAMIC TYPING TEXT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&duration=3000&pause=1000&color=FF003C&center=true&vCenter=true&width=500&height=50&lines=Red+Teamer+|+Pentester;Cybersecurity+Student;Active+Recon+|+Exploits;God+Mode+Activated..." alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Alias%3A+SnakeTank;Offensive+Security+Eng;Active+Recon+%26+RF+Jamming;Target+Locked...⚔️" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Alias-SnakeTank-00ff00?style=flat-square&logo=anaconda&logoColor=black" />
   <img src="https://img.shields.io/badge/Status-Active_Offensive-red?style=flat-square&logo=ghostery" />
-  <img src="https://img.shields.io/badge/Specialization-Red_Team-000000?style=flat-square&logo=kalilinux&logoColor=red" />
+  <img src="https://img.shields.io/badge/Specialization-Red_Team-000000?style=flat-square&logo=kalilinux&logoColor=green" />
   <img src="https://img.shields.io/badge/UniKL_MIIT-BCSS_Student-blue?style=flat-square" />
 </p>
 
@@ -18,69 +21,75 @@
 
 ### 👤 About Me
 
-I am a **Computer Science (Information Security)** student at **UniKL MIIT**, specializing in **Offensive Security (Red Teaming)**. I love exploring system vulnerabilities, conducting penetration tests, and writing automation scripts for security assessments.
+I am a **Computer Science (Information Security)** student at **UniKL MIIT** with a strong passion for **Offensive Security (Red Teaming)**, hardware auditing, and weaponized script development. In the cyber realm, I operate under the alias **SnakeTank**.
 
-* 🛡️ **My Focus:** Active Reconnaissance, Privilege Escalation, and Web Pentesting.
-* 🔭 **Current Goal:** Enhancing exploit delivery and WAF bypass techniques.
-* 💬 **Let's Talk About:** Linux privilege escalation, OSINT, and CTF challenges.
+* 🛡️ **My Focus:** Wireless Auditing, RF Jamming, Active Reconnaissance, and Defense Evasion (Office Bypass).
+* 🔭 **Current Goal:** Researching advanced AV/EDR evasion and wireless network disruption.
+* 💬 **Let's Talk About:** Radio Frequency operations, reverse engineering, and shellcode execution.
 
 ---
 
-### 🛠️ Skills & Toolbox
+### 🛠️ Skills & Weapons
 
 <table border="0">
   <tr>
     <td valign="top" width="50%">
-      <strong>🛡️ Penetration Testing & Recon</strong><br/>
+      <strong>🛡️ Offensive Toolset</strong><br/>
       <img src="https://img.shields.io/badge/Kali_Linux-557C95?style=flat-square&logo=kalilinux&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nmap-00ff00?style=flat-square&logoColor=black" />
+      <img src="https://img.shields.io/badge/Aircrack--ng-00FF00?style=flat-square&logoColor=black" />
       <img src="https://img.shields.io/badge/Metasploit-0F4C81?style=flat-square&logo=metasploit&logoColor=white" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF6600?style=flat-square&logo=portswigger&logoColor=white" />
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+      <img src="https://img.shields.io/badge/SDR_Radio-black?style=flat-square" />
     </td>
     <td valign="top" width="50%">
-      <strong>💻 Coding & DevOps</strong><br/>
+      <strong>💻 Coding & Evasion</strong><br/>
       <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/VBA%20%2F%20Macro-red?style=flat-square" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Custom Developed Armaments
 
-#### 🐍 [SNAKE RECON TOOLS v10 | GOD MODE]
-An aggressive active reconnaissance and vulnerability scanner. It features a custom cyberpunk-themed web terminal interface.
-* **Key Features:** WHOIS details retrieval, HTTP Header analysis, active DNS & Subdomain enumeration, WAF/Firewall checks, Nmap port scans, Directory brute-forcing (DIRB), and OSINT email harvesting.
+#### 🛜 [WiFi Bruteforce & Auditing Suite]
+An automated wireless penetration testing framework designed for security assessments.
+* **Key Features:** Automated WPA/WPA2 handshake capture, target selection, custom wordlist generation, and hardware-accelerated decryption verification.
+* **Tech Stack:** Python, Bash, Aircrack-ng, Hashcat.
+
+#### 🐍 [Snake Recon Tools v10 | God Mode]
+An aggressive active reconnaissance engine with a custom cyberpunk-themed interactive terminal interface.
+* **Key Features:** Live WHOIS details retrieval, HTTP Header analysis, DNS & Subdomain enumeration, WAF/Firewall checks, Nmap scans, and automated Directory brute-forcing.
 * **Tech Stack:** HTML5, CSS3 Custom (Glitch styling, Scanline overlays), JavaScript.
 
-#### 🌙 [BlueMoon System Penetration Test]
-A complete penetration testing engagement and walkthrough where I achieved full compromise (User & Root access) on the "BlueMoon System" (IP: 192.168.100.81).
-* **Attack Path:**
-  1. *Recon & Enumeration:* Discovered an exposed anonymous FTP service using Nmap.
-  2. *Data Exfiltration:* Harvested custom credential dictionaries from FTP storage.
-  3. *Initial Access:* Automated SSH login brute-forcing using Metasploit.
-  4. *Lateral Movement:* Exploited misconfigured sudo privileges on a bash script (`feedback.sh`).
-  5. *Privilege Escalation:* Exploited Docker group access to perform a container breakout to the host file system, gaining full `root` control.
+#### 📑 [MS Office Defense Evasion Tool]
+A proof-of-concept builder designed to audit Microsoft Office macro handling and payload execution paths.
+* **Key Features:** Custom VBA obfuscation, dynamic process injection hooks, and memory-only execution vectors designed to bypass AMSI and traditional antivirus heuristics.
+* **Tech Stack:** VBA, PowerShell, C++.
+
+#### 📡 [Single Aim WiFi Jamming Rig]
+A hardware-software hybrid deployment designed for targeted wireless signal suppression (de-authentication auditing).
+* **Key Features:** Focused 2.4GHz/5GHz frame generation, target-specific client de-authentication (deauth), and signal strength optimization mapping.
+* **Tech Stack:** Python (Scapy), ESP8266/ESP32 firmware, C++.
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Threat Intelligence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tr00jan99&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Tr00jan99 Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr00jan99&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tr00jan99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SnakeTank Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tr00jan99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tr00jan99&theme=radical&hide_border=true" alt="Tr00jan99 Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tr00jan99&theme=tokyonight&hide_border=true" alt="SnakeTank Streak" />
 </p>
 
 <br />
 <p align="center">
-  <sub><i>"Security is an illusion. Hack the planet."</i></sub>
+  <sub><i>"Security is an illusion. Hack the planet." - SnakeTank</i></sub>
 </p>
